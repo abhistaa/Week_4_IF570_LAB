@@ -1,7 +1,6 @@
 package com.example.diceroller
 
 
-
 class Dice(val numSides: Int) {
 
     fun roll() : Int {
